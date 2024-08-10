@@ -1,5 +1,3 @@
-Simple Streamlit app using LangChain and Google Generative AI to generate real-time responses based on user input. Easy setup, clean interface, and powered by state-of-the-art AI technology.
-
 ---
 
 
@@ -9,6 +7,8 @@ Simple Streamlit app using LangChain and Google Generative AI to generate real-t
 ## Overview
 
 This project is a simple web application built using Streamlit and LangChain with the Google Generative AI API. The app allows users to input a question, which is then processed by Google's Generative AI model ("gemini-pro") through LangChain, and the generated response is displayed in real-time. This demo application serves as a straightforward example of integrating state-of-the-art AI models into a user-friendly web interface.
+
+Simple Streamlit app using LangChain and Google Generative AI to generate real-time responses based on user input. Easy setup, clean interface, and powered by state-of-the-art AI technology.
 
 ## Features
 
