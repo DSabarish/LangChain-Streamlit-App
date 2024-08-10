@@ -10,6 +10,10 @@
 
 Welcome to the **LangChain Streamlit App**! This web application is built with the power of **Streamlit** and **LangChain** combined with **Google Generative AI**. Ask any question, and get instant, AI-driven responses. This demo app showcases how you can seamlessly integrate AI into a user-friendly web interface.
 
+## 🌐 Live Demo
+
+Check out the live app [here](https://huggingface.co/spaces/gen24AI/LLMsIntro)! 🚀
+
 ---
 
 ## ✨ Features
