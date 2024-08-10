@@ -2,7 +2,7 @@
 
  
 
-#🚀 LangChain Streamlit App : This app uses LangChain and Google Generative AI to generate real-time answers based on your input. It's easy to set up, has a clean interface, and leverages cutting-edge AI technology.
+🚀 LangChain Streamlit App : This app uses LangChain and Google Generative AI to generate real-time answers based on your input. It's easy to set up, has a clean interface, and leverages cutting-edge AI technology.
 
 ---
 
